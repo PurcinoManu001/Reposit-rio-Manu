@@ -1,2 +1,2 @@
-# Reposit-rio-Manu
+# Repositório-Manu
 Repositório das aulas de tecnologia 
